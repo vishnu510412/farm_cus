@@ -624,7 +624,7 @@ section {
 }
 
 .banner {
-  background: url(/public/images/banner.png) no-repeat;
+  background: url(images/banner.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -734,7 +734,7 @@ section {
 }
 
 .message {
-  background: url(../images/msgbg.png) no-repeat;
+  background: url(images/msgbg.png) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
